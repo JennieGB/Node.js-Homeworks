@@ -1,0 +1,24 @@
+{
+  "name": "hw2",
+  "version": "1.0.0",
+  "description": "HW2 integrated with Google calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JennieGB/Node.js-Homeworks.git"
+  },
+  "author": "Evgeniia Sheina",
+  "license": "ISC",
+  "dependencies": {
+    "auth-google": "^0.0.7",
+    "commander": "^2.20.3",
+    "google-cli-auth": "^0.0.1",
+    "googleapis": "^2.1.7",
+    "inquirer": "^0.11.4",
+    "jsonfile": "^2.4.0",
+    "validator": "^4.9.0"
+  }
+}
